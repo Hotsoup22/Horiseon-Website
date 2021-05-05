@@ -48,7 +48,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /*background img*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,7 +63,7 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
-    max-width: 13%;
+    max-width: 9%;
    
 }
 
@@ -71,7 +71,7 @@ p {
     float: right;
     margin-left: 25px;
    
-    max-width: 13%;
+    max-width: 10%;
 }
 
 .content {
