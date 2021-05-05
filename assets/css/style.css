@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+ /*header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,13 +20,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
+
  /*nav*/
 
 header nav ul {
@@ -64,6 +58,8 @@ p {
     background-position: center;
 }
 
+/*main section*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -91,9 +87,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.feature-card {
     max-height: 200px;
 }
 
